@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const uri = "mongodb+srv://AdiDubey:aditya0415@cluster0-1lxa7.mongodb.net/aditest?retryWrites=true&w=majority";
+const uri = "mongodb://localhost:27017/farmers-engine";
 
 // const MongoClient = require('mongodb').MongoClient;
 // const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
